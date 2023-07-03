@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/skillwill-task/static/css/main.6aed469d.css",
+    "main.js": "/skillwill-task/static/js/main.a7904c23.js",
+    "index.html": "/skillwill-task/index.html",
+    "main.6aed469d.css.map": "/skillwill-task/static/css/main.6aed469d.css.map",
+    "main.a7904c23.js.map": "/skillwill-task/static/js/main.a7904c23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6aed469d.css",
+    "static/js/main.a7904c23.js"
+  ]
+}
